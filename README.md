@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sujal Ponnaluri
+👋 Hi, I’m Sujal Ponnaluri
 👀 I’m interested in data analytics and business insights  
 🌱 I’m currently learning Python, SQL, and data analysis techniques     
 
