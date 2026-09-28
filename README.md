@@ -6,5 +6,8 @@ I have experience building interactive dashboards and analysis projects using re
 
 I'm continuing to strengthen my technical skills in **data analysis, visualization, and machine learning** while gaining hands-on experience through projects and internships. I'm interested in opportunities that use data to solve business problems and drive meaningful outcomes.
 
-### Tools & Technolo
+### Tools & Technologies
+
+**Python** · **SQL** · **Power BI** · **Tableau** · **Pandas** · **NumPy** · **scikit-learn** · **SQLite** · **Databricks**
+
 
